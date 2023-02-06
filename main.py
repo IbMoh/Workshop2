@@ -1,6 +1,6 @@
 def main():
     name = input('Enter name: ')
-    print(f'Hola! {name}')
+    print(f'this lovely person is named:  {name}')
 
 
 if __name__ == '__main__':
